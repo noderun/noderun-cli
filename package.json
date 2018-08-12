@@ -1,0 +1,34 @@
+{
+  "name": "norun",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "version": "0.0.2",
+  "description": "CLI Interface for noderun.io services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noderun/noderun-cli.git"
+  },
+  "keywords": [
+    "noderun",
+    "node",
+    "cli",
+    "run",
+    "js",
+    "cloud",
+    "run",
+    "node."
+  ],
+  "author": "Max Kalashnikoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noderun/noderun-cli/issues"
+  },
+  "homepage": "https://github.com/noderun/noderun-cli#readme",
+  "dependencies": {
+    "commander": "^2.17.1"
+  }
+}
